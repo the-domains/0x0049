@@ -1,4 +1,3 @@
-layout_spectrum: 0.17441710364073515
 typography_spectrum: 0.6290290823671967
 color:
   brandStrength: 0.428598701255396
@@ -11,4 +10,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.17441710364073515
 name: '0x0049'
+title: '0x0049'
