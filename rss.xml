@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[0x0049]]></title>
+        <description><![CDATA[0x0049]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Aug 2016 17:17:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just do it]]></title>
+            <description><![CDATA[<article><h1>Just do it</h1><p>I've redesigned this website six times over the past couple years. Six that I can actively recall. None of those designs were bad. I guess I just grew tired of them. They weren't good enough, or they became not good enough. If nothing changed I would go on redesigning for the rest of my life and never put the site up. No one would ever see the things I wanted to write here.</p></article>]]></description>
+            <link>https://www.0x0049.me/just-do-it/</link>
+            <guid isPermaLink="false">ae5f5cf2-6c91-4891-8214-dece9e4bcb9c</guid>
+            <pubDate>Thu, 11 Aug 2016 17:17:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
