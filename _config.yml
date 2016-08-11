@@ -1,16 +1,16 @@
-typography_spectrum: 0.6290290823671967
+typography_spectrum: 0.08980180532671511
 color:
-  brandStrength: 0.428598701255396
-  lightness: 0.6303254950325936
-  saturation: 0.8833888780791312
-  rhythmicContrast: 0.46206723037175834
+  brandStrength: 0.0892019378952682
+  lightness: 0.07753796153701842
+  saturation: 0.8887712967116386
+  rhythmicContrast: 0.4259225295390934
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-layout_spectrum: 0.17441710364073515
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.11532443016767502
 name: '0x0049'
 title: '0x0049'
 description: I write code and other things.
