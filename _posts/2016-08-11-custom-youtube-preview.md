@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-11T17:29:20.691Z'
+datePublished: '2016-08-11T17:30:31.365Z'
 sourcePath: _posts/2016-08-11-custom-youtube-preview.md
 author: []
 via: {}
-dateModified: '2016-08-11T17:29:20.436Z'
+dateModified: '2016-08-11T17:30:31.017Z'
 title: Custom YouTube Preview
 publisher: {}
 description: >-
-  This example uses a custom image in place of the regular YouTube embedded
-  iFrame. When you click the image, some Javascript swaps out the image for the
-  actual video and it starts playing. You could do this with any element, not
-  just an image. I also recommend using FitVids for perfectly responsive video.
+  This post shows how to use a custom image (or any element) for your YouTube
+  video preview. This method also potentially speeds up the initial page load.
 starred: false
 inFeed: true
 hasPage: false
@@ -19,6 +17,8 @@ _type: MediaObject
 
 ---
 # Custom YouTube Preview
+
+This post shows how to use a custom image (or any element) for your YouTube video preview. This method also potentially speeds up the initial page load.
 
 This example uses a custom image in place of the regular YouTube embedded iFrame. When you click the image, some Javascript swaps out the image for the actual video and it starts playing. You could do this with any element, not just an image. I also recommend using [FitVids][0] for perfectly responsive video.
 
