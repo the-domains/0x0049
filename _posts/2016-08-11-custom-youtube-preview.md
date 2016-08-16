@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-16T17:06:44.530Z'
+datePublished: '2016-08-16T17:08:27.391Z'
 sourcePath: _posts/2016-08-11-custom-youtube-preview.md
-hasPage: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-16T17:06:44.040Z'
+dateModified: '2016-08-16T17:08:27.010Z'
 title: Custom YouTube Preview
 publisher: {}
 description: >-
   This post shows how to use a custom image (or any element) for your YouTube
   video preview. This method also potentially speeds up the initial page load.
 starred: false
-url: custom-youtube-preview/index.html
 _type: Blurb
 
 ---
