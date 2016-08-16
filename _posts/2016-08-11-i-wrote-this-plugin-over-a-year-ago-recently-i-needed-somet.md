@@ -1,11 +1,12 @@
 ---
-datePublished: '2016-08-16T17:08:37.479Z'
+datePublished: '2016-08-16T17:15:29.140Z'
 sourcePath: >-
   _posts/2016-08-11-i-wrote-this-plugin-over-a-year-ago-recently-i-needed-somet.md
+inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-16T17:08:36.836Z'
+dateModified: '2016-08-16T17:15:28.813Z'
 title: Follow Me (jQuery plugin)
 publisher: {}
 description: >-
