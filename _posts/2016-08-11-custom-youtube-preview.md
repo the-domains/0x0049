@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-16T17:08:27.391Z'
+datePublished: '2016-08-16T17:15:33.635Z'
 sourcePath: _posts/2016-08-11-custom-youtube-preview.md
+inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-16T17:08:27.010Z'
+dateModified: '2016-08-16T17:15:33.228Z'
 title: Custom YouTube Preview
 publisher: {}
 description: >-
