@@ -1,20 +1,19 @@
 ---
-datePublished: '2016-08-16T16:50:19.739Z'
+datePublished: '2016-08-16T17:06:34.741Z'
 sourcePath: >-
   _posts/2016-08-11-i-wrote-this-plugin-over-a-year-ago-recently-i-needed-somet.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-16T16:50:19.075Z'
+dateModified: '2016-08-16T17:06:34.276Z'
 title: Follow Me (jQuery plugin)
 publisher: {}
 description: >-
   "Follow Me" is a jQuery plugin I wrote to make an element follow you up and
   down as you scroll, but only within the bounds of some parent element.
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: follow-me-jquery-plugin/index.html
+_type: Blurb
 
 ---
 # Follow Me (jQuery plugin)
