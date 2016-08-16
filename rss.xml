@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[0x0049]]></title>
+        <description><![CDATA[0x0049]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Aug 2016 17:15:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just do it]]></title>
+            <description><![CDATA[<article><h1>Just do it</h1><p>I've been putting off a lot for years now, including this site. But this past week has seen some fairly violent changes, thanks largely to these three words.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8fd9008-a5e8-4d04-9605-030efdc290ac.jpg"></article>]]></description>
+            <link>undefinedjust-do-it/index.html</link>
+            <guid isPermaLink="false">ae5f5cf2-6c91-4891-8214-dece9e4bcb9c</guid>
+            <pubDate>Tue, 16 Aug 2016 17:15:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
